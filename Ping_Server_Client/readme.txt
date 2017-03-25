@@ -1,4 +1,4 @@
-Justin Schaffner UIN: 01017664
+Justin Schaffner
 
 files:
 PingClient.java
